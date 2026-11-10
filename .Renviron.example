@@ -1,0 +1,10 @@
+# Copy to .Renviron (which git ignores) and fill in.
+
+# CARTO basemaps key (free: https://carto.com/basemaps/apikey). Optional:
+# without it the map uses Esri's light gray basemap.
+CARTO_API_KEY=
+
+# shinyapps.io credentials, used by deploy.R only.
+SHINYAPPS_NAME=qsushiny
+SHINYAPPS_TOKEN=
+SHINYAPPS_SECRET=

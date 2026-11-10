@@ -1,0 +1,18 @@
+.Rhistory
+.RData
+.Rproj.user
+.Ruserdata
+.Rproj
+.Renviron
+*.RData
+.DS_Store
+.vscode/
+
+# deploy records
+rsconnect/
+
+# bundled boundaries, rebuilt by data-raw/build_startup_boundaries.R
+data/
+
+# internal planning notes
+plan/
